@@ -1,0 +1,27 @@
+
+Hotel Revenue project
+1. Goal
+	Develop a Database to Analyze & Visualize Hotel Booking Data
+
+2. Requirements	
+	- Is our Hotel revenue growing by year?
+	- Should we increase our parking lot size?
+	- What trends can we see from the data?
+
+3. Data	
+	Source		:	kaggle
+	Format		: excel (.xls)
+	File size	:	17,550 kb 
+	Details	
+		- Consist of 3 tables (2018, 2019, and 2020)
+		- Each tables consist of 32 colomns
+		- Total 111,110 rows of data 
+
+4. Program
+	- Ms Excel
+	- SQL Server Studio
+	- Power BI
+
+5. Output	
+	- Dashboard (.pbix)
+	- Analyses
